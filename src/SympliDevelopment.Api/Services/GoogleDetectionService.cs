@@ -24,7 +24,7 @@ namespace SympliDevelopment.Api.Services
         {
             var listItems = raw.Split(_separatorOptions.Google)?.Skip(1);
 
-            if (listItems is null)
+            if (!listItems.Any())
             {
                 return new SearchResponseModel()
                 {
