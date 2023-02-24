@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "S/XqoIFroivPgjUXUyUa/n4Wox2EQzWvHHWi/i5TqiF7qfQtVErvloeHjscVVXC3CKO16cdXbN04plVAgrwpEA==",
+  "success": true,
+  "projectFilePath": "D:\\simpli\\SympliDevelopmentProject-develop\\src\\SympliDevelopment.Api\\SympliDevelopment.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hung.lequang\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\hung.lequang\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hung.lequang\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\hung.lequang\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\hung.lequang\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\hung.lequang\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
