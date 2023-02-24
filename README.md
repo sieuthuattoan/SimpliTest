@@ -16,8 +16,8 @@ test2: with keyword = "blah"
 
 -how to run it:
 1. downloads the project
-2. open CMD and direct to the path of the project "~SympliDevelopmentProject-develop/src/SympliDevelopment.Api"
-3. run the command: dotnet run
+2. open CMD and traverse to the path of the project "~SympliDevelopmentProject-develop/src/SympliDevelopment.Api"
+3. run the command: ```dotnet run```
 ![image](https://user-images.githubusercontent.com/20552649/221077113-029a4fd4-cc44-48c9-8a7e-2eec35c8f389.png)
 
 4. open http://localhost:5180/swagger/index.html on browser.
