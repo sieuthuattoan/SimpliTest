@@ -6,10 +6,10 @@
 
 
 - testing screenshoot
-test1: with keyworks = "e-settlemets"
+test1: with keyword = "e-settlemets"
 <img width="1133" alt="Test1" src="https://user-images.githubusercontent.com/20552649/221076278-48695328-4186-4182-acce-7584e4cd645e.PNG">
 
-test2: with keyworks = "blah"
+test2: with keyword = "blah"
 <img width="1100" alt="Test2" src="https://user-images.githubusercontent.com/20552649/221076428-64a54b61-ac7f-4e97-99a1-0a2d11aea1e2.PNG">
 
 
