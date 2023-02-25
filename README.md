@@ -27,5 +27,5 @@ test2: with keyword = "blah"
 
 - what i would add if i had more time:
 1. actually, i spent more than 2hours to finish this, however if i had more time i will add unitest for this project.
-2. after awhile then comeback to review a bit, found that the SearchUri for each search service should be configurable, should move it to appsetting.json
+2. after awhile, when have time i comeback to review and found that the SearchUri for each search service should be configurable, should move it to appsetting.json
 also, the searchingTarget should be configurable as well (line 27 in SearchController). i didn't mean hard-coded them there, but when the time was burning i forgot to change it.
