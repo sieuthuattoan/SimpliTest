@@ -25,4 +25,7 @@ test2: with keyword = "blah"
 ![image](https://user-images.githubusercontent.com/20552649/221077205-7d5257bf-2b48-4124-b08a-cc6ee9a9a805.png)
 
 
-- actually, i spent more than 2hours to finish this, however if i had more time i will add unitest for this project.
+- what i would add if i had more time:
+1. actually, i spent more than 2hours to finish this, however if i had more time i will add unitest for this project.
+2. after awhile then comeback to review a bit, found that the SearchUri for each search service should be configurable, should move it to appsetting.json
+also, the searchingTarget should be configurable as well (line 27 in SearchController). i didn't mean hard-coded them there, but when the time was burning i forgot to change it.
